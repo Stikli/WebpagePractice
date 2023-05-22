@@ -1,0 +1,13 @@
+html {
+  width: 80%;
+  margin: auto;
+  height: 200vh;
+}
+
+.nav-item {
+  margin: 0px 40px;
+}
+
+.container {
+  margin-top: 40px;
+}
